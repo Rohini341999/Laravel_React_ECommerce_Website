@@ -10,6 +10,7 @@ import Navbar from "./Navbar";
 import Sidebar from "./Sidebar";
 
 import routes from "../../routes/routes";
+import Dashboard from "../../components/admin/Dashboard";
 
 const MasterLayout = () => {
   return (
@@ -23,6 +24,7 @@ const MasterLayout = () => {
           <main>
             <Switch>
               {routes.map((route, idx) => {
+                console.log(route.component, "route");
                 return (
                   route.component && (
                     <Route

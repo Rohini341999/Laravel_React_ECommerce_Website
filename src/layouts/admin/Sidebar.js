@@ -6,20 +6,19 @@ const Sidebar = () => {
       <div className="sb-sidenav-menu">
         <div className="nav">
           <div className="sb-sidenav-menu-heading">Core</div>
-          <Link className="nav-link" to="/admin/dashboard">
-            {" "}
+          <a href="/admin/dashboard" className="nav-link" to="/admin/dashboard">
             <div className="sb-nav-link-icon">
               <i className="fas fa-tachometer-alt"></i>
-            </div>{" "}
-            Dashboard{" "}
-          </Link>
+            </div>
+            Dashboard
+          </a>
 
-          <Link to="/admin/profile" className="nav-link">
+          <a href="/admin/profile" to="/admin/profile" className="nav-link">
             <div className="sb-nav-link-icon">
               <i className="fas fa-tachometer-alt"></i>
             </div>
             Profile
-          </Link>
+          </a>
 
           <div className="sb-sidenav-menu-heading">Interface</div>
           <Link
