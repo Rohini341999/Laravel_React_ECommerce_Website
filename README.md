@@ -1,3 +1,9 @@
+# Start with cloning two different branches of this project
+The branch main is the frontend branch with React code.
+The branch laravel8-backend is the backend branch with Laravel8 code.
+
+Please do follow the Readme file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
