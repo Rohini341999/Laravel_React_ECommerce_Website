@@ -10,7 +10,6 @@ import Navbar from "./Navbar";
 import Sidebar from "./Sidebar";
 
 import routes from "../../routes/routes";
-import Dashboard from "../../components/admin/Dashboard";
 
 const MasterLayout = () => {
   return (
