@@ -1,8 +1,16 @@
-# Start with cloning two different branches of this project
-The branch main is the frontend branch with React code.
-The branch laravel8-backend is the backend branch with Laravel8 code.
+# Start with cloning two different branches of this project.
 
-Please do follow the Readme file.
+# The branch main is the frontend branch with React code.
+
+# The branch laravel8-backend is the backend branch with Laravel8 code.
+
+## Please do follow the Readme file.
+
+# Also follow this youtube playlist and github repository if any doubts.
+
+Youtube playlist => https://www.youtube.com/playlist?list=PLRheCL1cXHrtT6rOSlab8VzMKBlfL-IEA
+
+Github repo link => https://github.com/fundaofwebit/React-Js-Ecommerce-with-Laravel-8/tree/laravel8
 
 # Getting Started with Create React App
 
