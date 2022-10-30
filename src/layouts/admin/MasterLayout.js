@@ -23,6 +23,7 @@ const MasterLayout = () => {
           <main>
             <Switch>
               {routes.map((route, idx) => {
+                console.log(route.component, "route");
                 return (
                   route.component && (
                     <Route
